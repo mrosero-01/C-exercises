@@ -1,0 +1,38 @@
+# carpeta donde guardaremos todos los ejecutables
+build/
+
+# ejecutables comunes
+*.exe
+*.out
+*.app
+*.bin
+*.run
+
+# archivos objeto y compilados
+*.o
+*.obj
+*.a
+*.so
+*.dll
+*.dylib
+*.lib
+
+# depuración
+*.dSYM/
+*.pdb
+*.ilk
+*.map
+
+# temporales
+*.tmp
+*.bak
+*.swp
+*.swo
+*~
+
+# editor
+.vscode/
+
+# sistema
+.DS_Store
+Thumbs.db
